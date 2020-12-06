@@ -6,7 +6,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This sample source code makes use of Terraform and AWS Provider to spin up a basic EC2 instance in AWS Cloud
+This sample source code makes use of Terraform and AWS Provider to spin up a basic EC2 instance in AWS Cloud and add additional EBS volume.terra
 
 <br/>
 
