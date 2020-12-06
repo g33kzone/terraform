@@ -1,12 +1,12 @@
 <p align="center">
-  <h3 align="center">AWS - EC2 Instance :: Basic</h3>
+  <h3 align="center">AWS - EC2 Instance :: Add EBS Volume</h3>
 </p>
 
 <br/>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This sample source code makes use of Terraform and AWS Provider to spin up a basic EC2 instance in AWS Cloud and add additional EBS volume.terra
+This sample source code makes use of Terraform and AWS Provider to spin up a basic EC2 instance in AWS Cloud and add additional EBS volume.
 
 <br/>
 
